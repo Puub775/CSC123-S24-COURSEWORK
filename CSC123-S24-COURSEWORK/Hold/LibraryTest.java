@@ -1,6 +1,6 @@
 public class LibraryTest {
     public static void main(String[] args) {
-        // Create a Library
+        // Create Library
         Library library = new Library("Huntington Park Community Library", "123");
 
         // Create some books

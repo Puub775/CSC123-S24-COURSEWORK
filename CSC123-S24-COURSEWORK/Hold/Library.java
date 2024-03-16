@@ -6,13 +6,13 @@ public class Library {
     private String name;
     private String address;
     private List<Book> books;
-
+//constructor
     public Library(String name, String address) {
         this.name = name;
         this.address = address;
         this.books = new ArrayList<>();
     }
-
+//getters and setter
     public String getName() {
         return name;
     }
@@ -40,7 +40,7 @@ public class Library {
     public void removeBook(Book book) {
         books.remove(book);
     }
-
+//methods
     @Override
     public String toString() {
         return "Library{" +

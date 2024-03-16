@@ -5,14 +5,14 @@ public class Book {
     private String author;
     private int numberOfPages;
     private String isbn;
-
+//constructor
     public Book(String title, String author, int numberOfPages, String isbn) {
         this.title = title;
         this.author = author;
         this.numberOfPages = numberOfPages;
         this.isbn = isbn;
     }
-
+//getters and setters
     public String getTitle() {
         return title;
     }
@@ -44,7 +44,7 @@ public class Book {
     public void setIsbn(String isbn) {
         this.isbn = isbn;
     }
-
+//methods
     @Override
     public String toString() {
         return "Book{" +
