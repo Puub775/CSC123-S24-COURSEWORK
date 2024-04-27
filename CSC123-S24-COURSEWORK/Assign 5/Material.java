@@ -1,3 +1,5 @@
+//Name: Pablo Conde 
+//Email: pconde1@csudh.edu
 public class Material {
     private int itemReference;
     private String title;

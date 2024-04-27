@@ -1,3 +1,5 @@
+//Name: Pablo Conde 
+//Email: pconde1@csudh.edu
 public class DVD extends Material {
     private String releaseDate;
     private int durationMinutes;

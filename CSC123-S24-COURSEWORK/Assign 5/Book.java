@@ -1,3 +1,5 @@
+//Name: Pablo Conde 
+//Email: pconde1@csudh.edu
 public class Book extends Material {
     private String author;
     private String isbn;

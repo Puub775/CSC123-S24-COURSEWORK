@@ -1,3 +1,5 @@
+//Name: Pablo Conde 
+//Email: pconde1@csudh.edu
 public class Magazine extends Material {
     private String publicationDate;
     private int issueNumber;

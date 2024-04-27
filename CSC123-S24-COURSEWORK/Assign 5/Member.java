@@ -1,4 +1,5 @@
-
+//Name: Pablo Conde 
+//Email: pconde1@csudh.edu
 public class Member {
     private int membershipNumber;
     private String firstName;
